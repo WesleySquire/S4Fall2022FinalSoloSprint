@@ -1,0 +1,32 @@
+{
+  "value": 2,
+  "left": {
+    "value": 1
+  },
+  "right": {
+    "value": 4,
+    "left": {
+      "value": 3
+    },
+    "right": {
+      "value": 5
+    }
+  }
+}
+
+{
+  "value": 2,
+  "left": {
+    "value": 1
+  },
+  "right": {
+    "value": 4,
+    "left": {
+      "value": 3
+    },
+    "right": {
+      "value": 5
+    }
+  }
+}
+

@@ -1,0 +1,20 @@
+The purpose of this CLI application is to create, store, and read binary search trees.
+
+It should be possible to use the CLI tool to:
+- Create Binary Search Tree's
+- Store Binary Search Tree's to a file
+- Read the file containing the Binary Search Tree's
+
+WHAT IS A BINARY SEARCH TREE
+- Node-based binary tree data structure
+- The left subtree of a node contains only nodes with keys lesser than the nodes key
+- The right subtree of a node contains only nodes with keys greater than the node’s key
+
+CREATING A NEW BINARY SEARCH TREE
+- When creating new BST's you will be prompted to input a number
+- This can be done an infinite amount of time's until the user want's to stop
+- To stop entering numbers for the BST you must enter -0
+- You will than be shown the BST you created
+- From this you can enter y/n to confirm this is the BST you want stored
+
+Created December 2022, by Wesley Squire
